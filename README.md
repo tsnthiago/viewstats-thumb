@@ -3,7 +3,7 @@
 **Objective:** Rapid prototype demonstrating face swapping for personalized YouTube thumbnails, addressing a challenge discussed with Vuestats.  
 **Method:** Utilizes a pre-built Docker image (`registry.hf.space/musicutilist-face-integr:latest`) running a Gradio web UI for local face swap operations.
 
-**Live Demo (Screencast):** [**PLACEHOLDER: Link to Your Demo Video**]
+**Live Demo (Screencast):** [Watch the Demo Video](./files/ViewStats%20-%20Video.mp4)
 
 ---
 
