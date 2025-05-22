@@ -1,0 +1,2 @@
+docker run -it -p 7860:7860 --platform=linux/amd64 \
+	registry.hf.space/musicutilist-face-integr:latest python app.py
